@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../goit-js-hw-10/.git"
+		},
+		{
+			"path": "../goit-js-hw-10/.github"
+		},
+		{
+			"path": "../goit-js-hw-10/.parcel-cache"
+		},
+		{
+			"path": "../goit-js-hw-10/assets"
+		},
+		{
+			"path": "../goit-js-hw-10/node_modules"
+		},
+		{
+			"path": "../goit-js-hw-10/src"
+		}
+	]
+}
