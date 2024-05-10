@@ -1,3 +1,4 @@
+import fetchCountries from './fetchCountries';
 const searchBox = document.getElementById('search-box');
 const countryList = document.getElementById('country-list');
 
